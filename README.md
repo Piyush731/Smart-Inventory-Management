@@ -1,6 +1,6 @@
-# 📦 Smart Inventory Management System
+# 📦 Smart Inventory Management System (In progress)
 
-A web-based Smart Inventory Management System built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap** to help businesses or stores efficiently **track stock levels**, **manage products**, and **monitor inventory flow** through a user-friendly dashboard.
+A web-based Smart Inventory Management System built using **React**, **TailwindCSS**, **TypeScript**, and **Bootstrap** to help businesses or stores efficiently **track stock levels**, **manage products**, and **monitor inventory flow** through a user-friendly dashboard.
 
 ---
 
